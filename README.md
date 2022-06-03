@@ -1,4 +1,1 @@
-# Emoji_Status_App
-# EmojiStatus_App
-# EmojiStatus_App
-# EmojiStatus_App
+An app to describe your moods through Emojis ✌😊
